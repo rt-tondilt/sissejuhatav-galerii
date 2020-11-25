@@ -1,0 +1,2 @@
+# sissejuhatav-galerii
+Kodutöö
