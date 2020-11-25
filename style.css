@@ -19,6 +19,11 @@ main {
     max-width: 40em;
     width: 80%;
     margin: auto;
+
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+    padding: 15px 10%;
+    border-image: url(kujundus/piir.png) 30 round;
 }
 
 img {
